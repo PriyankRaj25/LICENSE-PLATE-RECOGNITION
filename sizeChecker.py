@@ -1,12 +1,4 @@
-#!/bin/python3
-# -*- encode: utf-8 -*-
 
-"""
-This mini program looks for xmin, ymin, xmax and ymax values in order to
-check if the figures have the proper size (min 33px)
-Version: 0.1
-Author: Moisés Lodeiro-Santiago @ https://github.com/moiseslodeiro
-"""
 
 from xml.etree import ElementTree
 from termcolor import colored
