@@ -1,0 +1,26 @@
+<annotation>
+  <folder>training</folder>
+  <filename>227</filename>
+  <path>C:\Users\priyankraj\training\227.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>224</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>numberPlate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>102</xmin>
+      <ymin>151</ymin>
+      <xmax>211</xmax>
+      <ymax>189</ymax>
+    </bndbox>
+  </object>
+</annotation>
